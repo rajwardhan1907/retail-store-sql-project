@@ -80,8 +80,8 @@ GROUP BY MONTH(PaymentDate);
 **Rajwardhan Malhari Pawar**  
 SQL Developer | Mechanical Engineer | Tech Enthusiast
 
-📧 Email: rajwardhanpawar19@gmail.com  
-🌐 GitHub: [your-username-here](https://github.com/your-username-here)
+📧 Email: rajwardhanpawar0707@gmail.com  
+🌐 GitHub: [rajwardhan1907](https://github.com/rajwardhan1907)
 
 ---
 
